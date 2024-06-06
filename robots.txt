@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://caladen.github.io/sitemap/sitemap.txt
